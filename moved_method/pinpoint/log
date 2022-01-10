@@ -1,0 +1,23 @@
+2021-11-25 11:30:48,134 [INFO] Project C:/Users/Dell/Desktop/Eclipse/MoveMethodGenerator-master/dataset/pinpoint is opened
+2021-11-25 11:32:50,444 [INFO] Total number of java files: 4825
+2021-11-25 11:32:50,444 [INFO] Total number of source java files: 4824
+2021-11-25 11:32:50,444 [INFO] Total number of classes: 2551
+2021-11-25 11:32:50,444 [INFO] Total number of methods: 17024
+2021-11-25 11:32:50,444 [INFO] StaticMethodsFilter filtered: 1047
+2021-11-25 11:32:50,444 [INFO] ConstructorsFilter filtered: 2061
+2021-11-25 11:32:50,444 [INFO] AbstractMethodsFilter filtered: 52
+2021-11-25 11:32:50,444 [INFO] GettersFilter filtered: 2359
+2021-11-25 11:32:50,444 [INFO] SettersFilter filtered: 973
+2021-11-25 11:32:50,444 [INFO] EmptyMethodsFilter filtered: 597
+2021-11-25 11:32:50,444 [INFO] ExceptionsThrowersFilter filtered: 102
+2021-11-25 11:32:50,444 [INFO] SingleMethodFilter filtered: 637
+2021-11-25 11:32:50,445 [INFO] SimpleDelegationsFilter filtered: 1579
+2021-11-25 11:32:50,445 [INFO] PrivateMethodsCallersFilter filtered: 1951
+2021-11-25 11:32:50,445 [INFO] PrivateFieldAccessorsFilter filtered: 2924
+2021-11-25 11:32:50,445 [INFO] OverridingMethodsFilter filtered: 1208
+2021-11-25 11:32:50,445 [INFO] OverriddenMethodsFilter filtered: 1
+2021-11-25 11:32:50,445 [INFO] MethodCallWithSuperFilter filtered: 0
+2021-11-25 11:32:50,445 [INFO] PrivateClassUserFilter filtered: 9
+2021-11-25 11:32:50,445 [INFO] GenericTypeUserFilter filtered: 0
+2021-11-25 11:32:50,445 [INFO] NoTargetsMethodsFilter filtered: 1419
+2021-11-25 11:32:50,445 [INFO] Number of methods after filtration: 105

@@ -1,0 +1,94 @@
+id,name,file,offset,containing_class_id,target_ids
+0,org.apache.cayenne.swing.BindingFactory.prepareBinding,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\swing\BindingFactory.java,4635,49,87
+1,org.apache.cayenne.modeler.util.NameGeneratorPreferences.createNamingStrategy,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\util\NameGeneratorPreferences.java,3106,99,16
+2,org.apache.cayenne.modeler.action.dbimport.MoveImportNodeAction.nodeClassesIsSameTypes,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\dbimport\MoveImportNodeAction.java,10336,23,48
+3,org.apache.cayenne.modeler.action.dbimport.AddPatternParamAction.addPatternParamToContainer,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\dbimport\AddPatternParamAction.java,2026,90,48
+4,org.apache.cayenne.modeler.action.dbimport.AddPatternParamAction.addPatternParamToIncludeTable,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\dbimport\AddPatternParamAction.java,3175,90,48
+5,org.apache.cayenne.modeler.action.RemoveAction.removeDBRelationships,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\RemoveAction.java,13913,1,21 5
+6,org.apache.cayenne.modeler.action.RemoveAction.removeObjRelationships,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\RemoveAction.java,14771,1,21 5
+7,org.apache.cayenne.modeler.action.RemoveAction.removeMethods,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\RemoveAction.java,15499,1,21 5
+8,org.apache.cayenne.modeler.action.OpenProjectAction.openProjectResourse,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\OpenProjectAction.java,7073,100,50
+9,org.apache.cayenne.modeler.action.LoadDbSchemaAction.saveConnectionInfo,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\LoadDbSchemaAction.java,6676,13,78
+10,org.apache.cayenne.modeler.action.ReverseEngineeringAction.saveConnectionInfo,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\ReverseEngineeringAction.java,6538,2,78
+11,org.apache.cayenne.modeler.action.ReverseEngineeringAction.runLoaderInThread,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\ReverseEngineeringAction.java,7661,2,74
+12,org.apache.cayenne.modeler.action.CreateCallbackMethodAction.createCallbackMethod,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\CreateCallbackMethodAction.java,3370,20,32
+13,org.apache.cayenne.modeler.action.RemoveCallbackMethodAction.removeCallbackMethod,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\action\RemoveCallbackMethodAction.java,3515,101,32
+14,org.apache.cayenne.modeler.dialog.db.load.DbLoaderContext.fillReverseEngineeringFromView,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\dialog\db\load\DbLoaderContext.java,3547,74,96
+15,org.apache.cayenne.modeler.dialog.db.load.DbLoaderContext.fillConfig,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\dialog\db\load\DbLoaderContext.java,5333,74,93
+16,org.apache.cayenne.modeler.dialog.autorelationship.InferRelationshipsControllerBase.getJoin,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\dialog\autorelationship\InferRelationshipsControllerBase.java,4409,25,64
+17,org.apache.cayenne.modeler.dialog.autorelationship.InferRelationshipsControllerBase.getToMany,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\dialog\autorelationship\InferRelationshipsControllerBase.java,4597,25,64
+18,org.apache.cayenne.modeler.editor.dbimport.DbImportTree.findNodeInParent,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\dbimport\DbImportTree.java,4295,69,48
+19,org.apache.cayenne.modeler.editor.dbimport.DbImportTree.findNodeByParentsChain,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\dbimport\DbImportTree.java,5884,69,48
+20,org.apache.cayenne.modeler.editor.dbimport.DbImportTree.findNode,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\dbimport\DbImportTree.java,6737,69,48
+21,org.apache.cayenne.modeler.editor.dbimport.DbImportTree.printParams,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\dbimport\DbImportTree.java,8977,69,48
+22,org.apache.cayenne.modeler.editor.validation.ObjAttributeWrapperValidator.isAttributeNameOverlapped,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\validation\ObjAttributeWrapperValidator.java,1783,77,9
+23,org.apache.cayenne.modeler.editor.ObjCallbackMethod.encodeCallbackTypeForXML,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\ObjCallbackMethod.java,1643,44,32
+24,org.apache.cayenne.modeler.editor.ObjAttributeTableModel.getDBAttribute,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\ObjAttributeTableModel.java,6576,27,9
+25,org.apache.cayenne.modeler.editor.ObjAttributeTableModel.getDBAttributeType,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\ObjAttributeTableModel.java,7139,27,9
+26,org.apache.cayenne.modeler.editor.ObjAttributeTableModel.setObjAttribute,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\ObjAttributeTableModel.java,9041,27,9
+27,org.apache.cayenne.modeler.editor.ObjAttributeTableModel.setDbAttribute,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\ObjAttributeTableModel.java,11671,27,9
+28,org.apache.cayenne.modeler.editor.AbstractCallbackMethodsTab.createTablePanel,modeler\cayenne-modeler\src\main\java\org\apache\cayenne\modeler\editor\AbstractCallbackMethodsTab.java,12066,76,0
+29,org.apache.cayenne.wocompat.parser.ParserTokenManager.ReInit,modeler\cayenne-wocompat\src\main\java\org\apache\cayenne\wocompat\parser\ParserTokenManager.java,18505,38,57
+30,org.apache.cayenne.gen.xml.CgenSaverDelegate.resolveOutputDir,cayenne-cgen\src\main\java\org\apache\cayenne\gen\xml\CgenSaverDelegate.java,1829,95,58
+31,org.apache.cayenne.gen.ClassGenerationAction.customTemplateName,cayenne-cgen\src\main\java\org\apache\cayenne\gen\ClassGenerationAction.java,3944,103,85
+32,org.apache.cayenne.dbsync.merge.token.db.AbstractToDbToken.executeSql,cayenne-dbsync\src\main\java\org\apache\cayenne\dbsync\merge\token\db\AbstractToDbToken.java,2062,15,11
+33,org.apache.cayenne.dbsync.reverse.dbimport.DefaultDbImportAction.putReverseEngineeringToConfig,cayenne-dbsync\src\main\java\org\apache\cayenne\dbsync\reverse\dbimport\DefaultDbImportAction.java,10047,39,51 98
+34,org.apache.cayenne.dbsync.reverse.dbimport.DefaultDbImportAction.transformSourceBeforeMerge,cayenne-dbsync\src\main\java\org\apache\cayenne\dbsync\reverse\dbimport\DefaultDbImportAction.java,11127,39,98
+35,org.apache.cayenne.dbsync.reverse.dbimport.DefaultDbImportAction.checkDataMapProperties,cayenne-dbsync\src\main\java\org\apache\cayenne\dbsync\reverse\dbimport\DefaultDbImportAction.java,12014,39,98
+36,org.apache.cayenne.dbsync.reverse.dbimport.DefaultDbImportAction.syncDataMapProperties,cayenne-dbsync\src\main\java\org\apache\cayenne\dbsync\reverse\dbimport\DefaultDbImportAction.java,13058,39,98
+37,org.apache.cayenne.dbsync.reverse.dbimport.DefaultDbImportAction.newTargetDataMap,cayenne-dbsync\src\main\java\org\apache\cayenne\dbsync\reverse\dbimport\DefaultDbImportAction.java,15012,39,98
+38,org.apache.cayenne.dba.db2.DB2SQLTreeProcessor.getReplacementForFunction,cayenne-server\src\main\java\org\apache\cayenne\dba\db2\DB2SQLTreeProcessor.java,2731,71,73
+39,org.apache.cayenne.dba.derby.DerbySQLTreeProcessor.getReplacementForFunction,cayenne-server\src\main\java\org\apache\cayenne\dba\derby\DerbySQLTreeProcessor.java,2620,102,73
+40,org.apache.cayenne.dba.hsqldb.HSQLTreeProcessor.getReplacementForFunction,cayenne-server\src\main\java\org\apache\cayenne\dba\hsqldb\HSQLTreeProcessor.java,1909,33,73
+41,org.apache.cayenne.dba.oracle.OracleSQLTreeProcessor.newSliceNode,cayenne-server\src\main\java\org\apache\cayenne\dba\oracle\OracleSQLTreeProcessor.java,6775,29,84 7 40
+42,org.apache.cayenne.dba.sqlite.SQLiteTreeProcessor.replaceExtractFunction,cayenne-server\src\main\java\org\apache\cayenne\dba\sqlite\SQLiteTreeProcessor.java,3206,8,84 73
+43,org.apache.cayenne.dba.firebird.FirebirdSQLTreeProcessor.newSliceNode,cayenne-server\src\main\java\org\apache\cayenne\dba\firebird\FirebirdSQLTreeProcessor.java,6014,94,84 7 40
+44,org.apache.cayenne.dba.openbase.OpenBasePkGenerator.newIDString,cayenne-server\src\main\java\org\apache\cayenne\dba\openbase\OpenBasePkGenerator.java,3745,43,83
+45,org.apache.cayenne.dba.openbase.OpenBasePkGenerator.canCreatePK,cayenne-server\src\main\java\org\apache\cayenne\dba\openbase\OpenBasePkGenerator.java,5612,43,83
+46,org.apache.cayenne.dba.openbase.OpenBasePkGenerator.createPKString,cayenne-server\src\main\java\org\apache\cayenne\dba\openbase\OpenBasePkGenerator.java,6361,43,83
+47,org.apache.cayenne.dba.openbase.OpenBasePkGenerator.createUniquePKIndexString,cayenne-server\src\main\java\org\apache\cayenne\dba\openbase\OpenBasePkGenerator.java,7449,43,83
+48,org.apache.cayenne.dba.postgres.PostgresAdapter.createAttribute,cayenne-server\src\main\java\org\apache\cayenne\dba\postgres\PostgresAdapter.java,6634,104,83 70
+49,org.apache.cayenne.dba.JdbcPkGenerator.autoPkTableExists,cayenne-server\src\main\java\org\apache\cayenne\dba\JdbcPkGenerator.java,5414,80,92
+50,org.apache.cayenne.dba.JdbcPkGenerator.runUpdate,cayenne-server\src\main\java\org\apache\cayenne\dba\JdbcPkGenerator.java,5852,80,92
+51,org.apache.cayenne.exp.parser.ExpressionParserTokenManager.ReInit,cayenne-server\src\main\java\org\apache\cayenne\exp\parser\ExpressionParserTokenManager.java,85066,81,53
+52,org.apache.cayenne.map.Entity.updateAttribute,cayenne-server\src\main\java\org\apache\cayenne\map\Entity.java,5243,47,36
+53,org.apache.cayenne.map.DataMap.getClientDataMap,cayenne-server\src\main\java\org\apache\cayenne\map\DataMap.java,8355,59,34
+54,org.apache.cayenne.map.DataMap.encodeDbRelationshipsAsXML,cayenne-server\src\main\java\org\apache\cayenne\map\DataMap.java,10671,59,42
+55,org.apache.cayenne.map.DataMap.encodeObjRelationshipsAsXML,cayenne-server\src\main\java\org\apache\cayenne\map\DataMap.java,11013,59,42
+56,org.apache.cayenne.map.DataMap.getMappedEntities,cayenne-server\src\main\java\org\apache\cayenne\map\DataMap.java,20962,59,83
+57,org.apache.cayenne.map.ObjEntity.setDbEntity,cayenne-server\src\main\java\org\apache\cayenne\map\ObjEntity.java,16872,60,83
+58,org.apache.cayenne.map.ObjEntity.getAttributeForDbAttribute,cayenne-server\src\main\java\org\apache\cayenne\map\ObjEntity.java,25299,60,70
+59,org.apache.cayenne.map.ObjEntity.getRelationshipForDbRelationship,cayenne-server\src\main\java\org\apache\cayenne\map\ObjEntity.java,26791,60,30
+60,org.apache.cayenne.map.EntityResult.getRootEntity,cayenne-server\src\main\java\org\apache\cayenne\map\EntityResult.java,2745,28,34
+61,org.apache.cayenne.map.ObjAttribute.getDbPathIterator,cayenne-server\src\main\java\org\apache\cayenne\map\ObjAttribute.java,6295,86,60
+62,org.apache.cayenne.map.Relationship.setTargetEntityName,cayenne-server\src\main\java\org\apache\cayenne\map\Relationship.java,2654,17,47
+63,org.apache.cayenne.map.DbRelationship.addJoin,cayenne-server\src\main\java\org\apache\cayenne\map\DbRelationship.java,10085,30,52
+64,org.apache.cayenne.map.ObjRelationship.isSourceDefiningTargetPrecenseAndType,cayenne-server\src\main\java\org\apache\cayenne\map\ObjRelationship.java,10941,62,34
+65,org.apache.cayenne.map.QueryDescriptor.encodeProperties,cayenne-server\src\main\java\org\apache\cayenne\map\QueryDescriptor.java,6829,72,42
+66,org.apache.cayenne.map.EmbeddedAttribute.makeObjAttribute,cayenne-server\src\main\java\org\apache\cayenne\map\EmbeddedAttribute.java,3063,63,6
+67,org.apache.cayenne.query.Ordering.then,cayenne-server\src\main\java\org\apache\cayenne\query\Ordering.java,13456,67,66
+68,org.apache.cayenne.query.Orderings.then,cayenne-server\src\main\java\org\apache\cayenne\query\Orderings.java,1779,66,67
+69,org.apache.cayenne.query.BatchQueryRow.getValue,cayenne-server\src\main\java\org\apache\cayenne\query\BatchQueryRow.java,1725,24,70
+70,org.apache.cayenne.query.SQLTemplateMetadata.buildResultSetMappingForColumns,cayenne-server\src\main\java\org\apache\cayenne\query\SQLTemplateMetadata.java,3858,97,4
+71,org.apache.cayenne.access.jdbc.SQLTemplateAction.createColumnDescriptors,cayenne-server\src\main\java\org\apache\cayenne\access\jdbc\SQLTemplateAction.java,10164,3,22
+72,org.apache.cayenne.access.dbsync.CreateIfNoSchemaStrategy.generate,cayenne-server\src\main\java\org\apache\cayenne\access\dbsync\CreateIfNoSchemaStrategy.java,2424,88,92
+73,org.apache.cayenne.access.dbsync.CreateIfNoSchemaStrategy.getNameTablesInDB,cayenne-server\src\main\java\org\apache\cayenne\access\dbsync\CreateIfNoSchemaStrategy.java,3172,88,92
+74,org.apache.cayenne.access.dbsync.ThrowOnPartialOrCreateSchemaStrategy.generate,cayenne-server\src\main\java\org\apache\cayenne\access\dbsync\ThrowOnPartialOrCreateSchemaStrategy.java,2727,18,92
+75,org.apache.cayenne.access.translator.ejbql.EJBQLJoinAppender.ejbqlQualifierForEntityAndSubclasses,cayenne-server\src\main\java\org\apache\cayenne\access\translator\ejbql\EJBQLJoinAppender.java,12793,68,82
+76,org.apache.cayenne.access.translator.ejbql.EJBQLPathTranslator.chooseDbRelationship,cayenne-server\src\main\java\org\apache\cayenne\access\translator\ejbql\EJBQLPathTranslator.java,9406,41,62
+77,org.apache.cayenne.access.translator.select.BaseSQLTreeProcessor.replaceChild,cayenne-server\src\main\java\org\apache\cayenne\access\translator\select\BaseSQLTreeProcessor.java,2730,10,84
+78,org.apache.cayenne.access.translator.procedure.ProcedureTranslator.setOutParam,cayenne-server\src\main\java\org\apache\cayenne\access\translator\procedure\ProcedureTranslator.java,6446,35,14
+79,org.apache.cayenne.access.DataContext.objectFromDataRow,cayenne-server\src\main\java\org\apache\cayenne\access\DataContext.java,15046,89,79
+80,org.apache.cayenne.access.DataContext.objectFromDataRow,cayenne-server\src\main\java\org\apache\cayenne\access\DataContext.java,15675,89,79
+81,org.apache.cayenne.access.DbGenerator.createConstraintsQueries,cayenne-server\src\main\java\org\apache\cayenne\access\DbGenerator.java,11067,54,83
+82,org.apache.cayenne.ashwood.AshwoodEntitySorter.findReflexiveMaster,cayenne-server\src\main\java\org\apache\cayenne\ashwood\AshwoodEntitySorter.java,9018,26,62
+83,org.apache.cayenne.reflect.PersistentDescriptorFactory.appendDeclaredRootDbEntity,cayenne-server\src\main\java\org\apache\cayenne\reflect\PersistentDescriptorFactory.java,8621,55,37 60
+84,org.apache.cayenne.reflect.PersistentDescriptorFactory.indexQualifiers,cayenne-server\src\main\java\org\apache\cayenne\reflect\PersistentDescriptorFactory.java,9018,55,37 19
+85,org.apache.cayenne.reflect.PersistentDescriptorFactory.indexSuperclassProperties,cayenne-server\src\main\java\org\apache\cayenne\reflect\PersistentDescriptorFactory.java,11896,55,37
+86,org.apache.cayenne.reflect.PersistentDescriptorFactory.createMapKeyAccessor,cayenne-server\src\main\java\org\apache\cayenne\reflect\PersistentDescriptorFactory.java,15326,55,62
+87,org.apache.cayenne.template.parser.ASTArray.evaluateAsArray,cayenne-server\src\main\java\org\apache\cayenne\template\parser\ASTArray.java,1552,12,45
+88,org.apache.cayenne.template.parser.ASTMethod.evaluateAsObject,cayenne-server\src\main\java\org\apache\cayenne\template\parser\ASTMethod.java,1256,75,45
+89,org.apache.cayenne.template.parser.SQLTemplateParserTokenManager.ReInit,cayenne-server\src\main\java\org\apache\cayenne\template\parser\SQLTemplateParserTokenManager.java,37790,65,46
+90,org.apache.cayenne.DataRow.createTargetObjectId,cayenne-server\src\main\java\org\apache\cayenne\DataRow.java,3720,79,30
+91,org.apache.cayenne.configuration.server.DelegatingDataSourceFactory.getDataNodePropertyName,cayenne-server\src\main\java\org\apache\cayenne\configuration\server\DelegatingDataSourceFactory.java,4562,56,61
+92,org.apache.cayenne.configuration.DefaultDataChannelDescriptorMerger.cloneDataNodeDescriptor,cayenne-server\src\main\java\org\apache\cayenne\configuration\DefaultDataChannelDescriptorMerger.java,5788,31,91 61

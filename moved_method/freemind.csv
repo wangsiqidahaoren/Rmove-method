@@ -1,0 +1,13 @@
+method,class
+freemind.modes.mindmapmode.dialogs.StylePatternFrame.getJContentPane,accessories.plugins.dialogs.ChooseFormatPopupDialog
+freemind.modes.attributes.ColumnWidthChangeEvent.columnWidthChanged,freemind.view.mindmapview.attributeview.AttributeTable
+freemind.controller.filter.util.ExtendedComboBoxModel.mapChanged,freemind.controller.filter.FilterComposerDialog
+freemind.controller.filter.FilterController.quit,freemind.controller.Controller
+freemind.modes.mindmapmode.MindMapController.performRemoveRow2,freemind.modes.mindmapmode.attributeactors.MindMapModeAttributeController
+freemind.modes.common.actions.FindAction.extendSelection,freemind.modes.viewmodes.ViewControllerAdapter
+freemind.modes.mindmapmode.actions.xml.ActionPair.filterAction,plugins.collaboration.database.UpdateThread
+freemind.main.Tools.BooleanHolder.performExternalScript,plugins.script.ScriptingEngine
+freemind.main.FreeMindMain.VersionInformation.insertComponentIntoSplitPane,freemind.main.FreeMindApplet
+freemind.controller.Controller.setScreenBounds,freemind.main.FreeMind
+freemind.common.NumberProperty.setPortProperty,plugins.collaboration.database.DatabaseBasics
+freemind.modes.MindIcon.getToggleIconActionPair,freemind.modes.mindmapmode.actions.IconAction

@@ -1,0 +1,23 @@
+2021-11-25 10:19:59,183 [INFO] Project C:/Users/Dell/Desktop/Eclipse/MoveMethodGenerator-master/dataset/cayenne is opened
+2021-11-25 10:20:55,854 [INFO] Total number of java files: 3902
+2021-11-25 10:20:55,856 [INFO] Total number of source java files: 3902
+2021-11-25 10:20:55,856 [INFO] Total number of classes: 1499
+2021-11-25 10:20:55,856 [INFO] Total number of methods: 12164
+2021-11-25 10:20:55,856 [INFO] StaticMethodsFilter filtered: 771
+2021-11-25 10:20:55,856 [INFO] ConstructorsFilter filtered: 1646
+2021-11-25 10:20:55,857 [INFO] AbstractMethodsFilter filtered: 114
+2021-11-25 10:20:55,857 [INFO] GettersFilter filtered: 1171
+2021-11-25 10:20:55,857 [INFO] SettersFilter filtered: 563
+2021-11-25 10:20:55,857 [INFO] EmptyMethodsFilter filtered: 467
+2021-11-25 10:20:55,857 [INFO] ExceptionsThrowersFilter filtered: 58
+2021-11-25 10:20:55,857 [INFO] SingleMethodFilter filtered: 244
+2021-11-25 10:20:55,857 [INFO] SimpleDelegationsFilter filtered: 1619
+2021-11-25 10:20:55,857 [INFO] PrivateMethodsCallersFilter filtered: 1985
+2021-11-25 10:20:55,857 [INFO] PrivateFieldAccessorsFilter filtered: 2133
+2021-11-25 10:20:55,857 [INFO] OverridingMethodsFilter filtered: 594
+2021-11-25 10:20:55,857 [INFO] OverriddenMethodsFilter filtered: 39
+2021-11-25 10:20:55,857 [INFO] MethodCallWithSuperFilter filtered: 18
+2021-11-25 10:20:55,857 [INFO] PrivateClassUserFilter filtered: 0
+2021-11-25 10:20:55,857 [INFO] GenericTypeUserFilter filtered: 0
+2021-11-25 10:20:55,857 [INFO] NoTargetsMethodsFilter filtered: 649
+2021-11-25 10:20:55,857 [INFO] Number of methods after filtration: 93

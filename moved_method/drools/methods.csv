@@ -1,0 +1,257 @@
+id,name,file,offset,containing_class_id,target_ids
+0,org.kie.dmn.core.impl.DMNRuntimeImpl.isNodeValueDefined,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\impl\DMNRuntimeImpl.java,19990,20,242
+1,org.kie.dmn.core.impl.DMNRuntimeImpl.checkDependencyValueIsValid,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\impl\DMNRuntimeImpl.java,34935,20,242
+2,org.kie.dmn.core.impl.DMNRuntimeImpl.reportFailure,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\impl\DMNRuntimeImpl.java,36677,20,46
+3,org.kie.dmn.core.compiler.DMNFEELHelper.isDuplicateEvent,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\compiler\DMNFEELHelper.java,10242,57,199
+4,org.kie.dmn.core.compiler.DMNCompilerImpl.importFromModel,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\compiler\DMNCompilerImpl.java,9491,62,199
+5,org.kie.dmn.core.compiler.DMNEvaluatorCompiler.compileRelation,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\compiler\DMNEvaluatorCompiler.java,10800,219,28 44 199
+6,org.kie.dmn.core.compiler.DMNEvaluatorCompiler.compileList,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\compiler\DMNEvaluatorCompiler.java,13334,219,28 44 199
+7,org.kie.dmn.core.compiler.DMNEvaluatorCompiler.textToUnaryTestList,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\compiler\DMNEvaluatorCompiler.java,45898,219,28 199
+8,org.kie.dmn.core.compiler.DecisionServiceCompiler.compileNode,kie-dmn\kie-dmn-core\src\main\java\org\kie\dmn\core\compiler\DecisionServiceCompiler.java,1835,73,199 62
+9,org.kie.dmn.feel.lang.ast.QuantifiedExpressionNode.createQuantifiedExpressionIterationContext,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\lang\ast\QuantifiedExpressionNode.java,5033,13,178
+10,org.kie.dmn.feel.parser.feel11.ASTBuilderVisitor.getFunctionName,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\parser\feel11\ASTBuilderVisitor.java,18710,53,250
+11,org.kie.dmn.feel.parser.feel11.ASTBuilderVisitor.buildNotCall,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\parser\feel11\ASTBuilderVisitor.java,20572,53,250 77
+12,org.kie.dmn.feel.codegen.feel11.ASTUnaryTestTransform.rewriteToUnaryTestExpr,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\ASTUnaryTestTransform.java,2303,252,250
+13,org.kie.dmn.feel.codegen.feel11.ASTUnaryTestTransform.rewriteToUnaryEqInExpr,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\ASTUnaryTestTransform.java,2452,252,250
+14,org.kie.dmn.feel.codegen.feel11.DirectCompilerVisitor.isNumericConstant,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\DirectCompilerVisitor.java,36544,233,210
+15,org.kie.dmn.feel.codegen.feel11.DirectCompilerVisitor.createUnaryTestExpression,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\DirectCompilerVisitor.java,37228,233,210
+16,org.kie.dmn.feel.codegen.feel11.DirectCompilerVisitor.createRuntimeUnaryTestExpression,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\DirectCompilerVisitor.java,42137,233,210
+17,org.kie.dmn.feel.codegen.feel11.DirectCompilerVisitor.createWildcardUnaryTestExpression,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\DirectCompilerVisitor.java,45591,233,210
+18,org.kie.dmn.feel.codegen.feel11.DirectCompilerVisitor.buildFunctionCall,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\DirectCompilerVisitor.java,74959,233,210
+19,org.kie.dmn.feel.codegen.feel11.DirectCompilerVisitor.telescopePathAccessor,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\codegen\feel11\DirectCompilerVisitor.java,81056,233,210
+20,org.kie.dmn.feel.runtime.decisiontables.DecisionTableImpl.hitToOutput,kie-dmn\kie-dmn-feel\src\main\java\org\kie\dmn\feel\runtime\decisiontables\DecisionTableImpl.java,13503,244,212
+21,org.kie.pmml.pmml_4_2.model.PMML4ModelFactory.getModel,kie-pmml\src\main\java\org\kie\pmml\pmml_4_2\model\PMML4ModelFactory.java,1372,180,215
+22,org.drools.core.xml.BaseAbstractHandler.emptyAttributeCheck,drools-core\src\main\java\org\drools\core\xml\BaseAbstractHandler.java,1167,38,60
+23,org.drools.core.xml.BaseAbstractHandler.emptyContentCheck,drools-core\src\main\java\org\drools\core\xml\BaseAbstractHandler.java,1717,38,60
+24,org.drools.core.base.mvel.MVELCompilationUnit.replaceDeclaration,drools-core\src\main\java\org\drools\core\base\mvel\MVELCompilationUnit.java,18674,134,82
+25,org.drools.core.base.evaluators.EvaluatorRegistry.getEvaluator,drools-core\src\main\java\org\drools\core\base\evaluators\EvaluatorRegistry.java,7898,37,18
+26,org.drools.core.base.evaluators.EvaluatorRegistry.getEvaluator,drools-core\src\main\java\org\drools\core\base\evaluators\EvaluatorRegistry.java,9233,37,18
+27,org.drools.core.base.ClassFieldAccessorCache.getClassObjectType,drools-core\src\main\java\org\drools\core\base\ClassFieldAccessorCache.java,1625,177,16
+28,org.drools.core.base.ClassFieldAccessorCache.getAccessorKey,drools-core\src\main\java\org\drools\core\base\ClassFieldAccessorCache.java,3766,177,111
+29,org.drools.core.base.ClassFieldAccessorCache.getAccessorKey,drools-core\src\main\java\org\drools\core\base\ClassFieldAccessorCache.java,4603,177,183
+30,org.drools.core.impl.KnowledgeBaseImpl.internalInitSession,drools-core\src\main\java\org\drools\core\impl\KnowledgeBaseImpl.java,14916,81,222 87
+31,org.drools.core.impl.KnowledgeBaseImpl.updateDependentTypes,drools-core\src\main\java\org\drools\core\impl\KnowledgeBaseImpl.java,43790,81,116
+32,org.drools.core.impl.StatefulKnowledgeSessionImpl.initInitialFact,drools-core\src\main\java\org\drools\core\impl\StatefulKnowledgeSessionImpl.java,27145,87,220 174
+33,org.drools.core.rule.Collect.determineResultClassName,drools-core\src\main\java\org\drools\core\rule\Collect.java,4411,85,16
+34,org.drools.core.rule.Pattern.setConstraintType,drools-core\src\main\java\org\drools\core\rule\Pattern.java,17670,163,74
+35,org.drools.core.rule.EvalCondition.replaceDeclaration,drools-core\src\main\java\org\drools\core\rule\EvalCondition.java,6597,151,82
+36,org.drools.core.rule.LogicTransformer.splitOr,drools-core\src\main\java\org\drools\core\rule\LogicTransformer.java,4603,175,138
+37,org.drools.core.rule.LogicTransformer.replaceDeclarations,drools-core\src\main\java\org\drools\core\rule\LogicTransformer.java,10952,175,150 163
+38,org.drools.core.rule.LogicTransformer.replaceDeclarations,drools-core\src\main\java\org\drools\core\rule\LogicTransformer.java,12720,175,150 195
+39,org.drools.core.rule.LogicTransformer.processEvalCondition,drools-core\src\main\java\org\drools\core\rule\LogicTransformer.java,14227,175,150 151
+40,org.drools.core.rule.SlidingTimeWindow.isExpired,drools-core\src\main\java\org\drools\core\rule\SlidingTimeWindow.java,6896,207,248
+41,org.drools.core.rule.JavaDialectRuntimeData.sign,drools-core\src\main\java\org\drools\core\rule\JavaDialectRuntimeData.java,5117,100,243
+42,org.drools.core.rule.JavaDialectRuntimeData.checkSignature,drools-core\src\main\java\org\drools\core\rule\JavaDialectRuntimeData.java,8043,100,243
+43,org.drools.core.rule.JavaDialectRuntimeData.removeClasses,drools-core\src\main\java\org\drools\core\rule\JavaDialectRuntimeData.java,16109,100,163
+44,org.drools.core.time.impl.CronTrigger.setCronExpression,drools-core\src\main\java\org\drools\core\time\impl\CronTrigger.java,7413,205,147
+45,org.drools.core.time.TemporalDependencyMatrix.getExpirationOffset,drools-core\src\main\java\org\drools\core\time\TemporalDependencyMatrix.java,1544,156,163
+46,org.drools.core.util.index.TupleIndexHashTable.matches,drools-core\src\main\java\org\drools\core\util\index\TupleIndexHashTable.java,14542,17,125
+47,org.drools.core.util.index.TupleIndexHashTable.matches,drools-core\src\main\java\org\drools\core\util\index\TupleIndexHashTable.java,16219,17,125
+48,org.drools.core.common.NamedEntryPoint.deleteFromTMS,drools-core\src\main\java\org\drools\core\common\NamedEntryPoint.java,21791,22,14
+49,org.drools.core.common.NamedEntryPoint.deleteLogical,drools-core\src\main\java\org\drools\core\common\NamedEntryPoint.java,22943,22,14
+50,org.drools.core.common.TruthMaintenanceSystem.get,drools-core\src\main\java\org\drools\core\common\TruthMaintenanceSystem.java,5826,39,14
+51,org.drools.core.common.TruthMaintenanceSystem.remove,drools-core\src\main\java\org\drools\core\common\TruthMaintenanceSystem.java,6947,39,14
+52,org.drools.core.common.TruthMaintenanceSystem.addLogicalDependency,drools-core\src\main\java\org\drools\core\common\TruthMaintenanceSystem.java,8498,39,227
+53,org.drools.core.phreak.RuleExecutor.cancelAndContinue,drools-core\src\main\java\org\drools\core\phreak\RuleExecutor.java,8629,66,72 227
+54,org.drools.core.phreak.RuleExecutor.isHigherSalience,drools-core\src\main\java\org\drools\core\phreak\RuleExecutor.java,10091,66,122
+55,org.drools.core.phreak.PhreakNotNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakNotNode.java,1245,225,189 10
+56,org.drools.core.phreak.PhreakNotNode.doRightInserts,drools-core\src\main\java\org\drools\core\phreak\PhreakNotNode.java,5388,225,189 10
+57,org.drools.core.phreak.PhreakNotNode.doLeftDeletes,drools-core\src\main\java\org\drools\core\phreak\PhreakNotNode.java,19985,225,189
+58,org.drools.core.phreak.PhreakEvalNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakEvalNode.java,1300,8,169
+59,org.drools.core.phreak.PhreakEvalNode.doLeftInserts,drools-core\src\main\java\org\drools\core\phreak\PhreakEvalNode.java,2155,8,169
+60,org.drools.core.phreak.PhreakJoinNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakJoinNode.java,1172,135,141 189
+61,org.drools.core.phreak.PhreakJoinNode.doLeftUpdates,drools-core\src\main\java\org\drools\core\phreak\PhreakJoinNode.java,7471,135,141 189
+62,org.drools.core.phreak.PhreakJoinNode.doRightUpdates,drools-core\src\main\java\org\drools\core\phreak\PhreakJoinNode.java,13358,135,141 189
+63,org.drools.core.phreak.PhreakJoinNode.doLeftDeletes,drools-core\src\main\java\org\drools\core\phreak\PhreakJoinNode.java,19953,135,189
+64,org.drools.core.phreak.PhreakJoinNode.doRightDeletes,drools-core\src\main\java\org\drools\core\phreak\PhreakJoinNode.java,21104,135,189
+65,org.drools.core.phreak.PhreakQueryNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakQueryNode.java,1203,191,137 240
+66,org.drools.core.phreak.PhreakQueryNode.doLeftInserts,drools-core\src\main\java\org\drools\core\phreak\PhreakQueryNode.java,2043,191,137 240
+67,org.drools.core.phreak.PhreakQueryNode.doLeftUpdates,drools-core\src\main\java\org\drools\core\phreak\PhreakQueryNode.java,3529,191,240
+68,org.drools.core.phreak.PhreakTimerNode.createTrigger,drools-core\src\main\java\org\drools\core\phreak\PhreakTimerNode.java,12318,88,90
+69,org.drools.core.phreak.PhreakBranchNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakBranchNode.java,1220,202,66 29
+70,org.drools.core.phreak.PhreakBranchNode.doLeftInserts,drools-core\src\main\java\org\drools\core\phreak\PhreakBranchNode.java,2196,202,66 29
+71,org.drools.core.phreak.PhreakExistsNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakExistsNode.java,1403,149,80 189
+72,org.drools.core.phreak.PhreakExistsNode.doLeftDeletes,drools-core\src\main\java\org\drools\core\phreak\PhreakExistsNode.java,19038,149,189
+73,org.drools.core.phreak.PhreakExistsNode.doRightDeletes,drools-core\src\main\java\org\drools\core\phreak\PhreakExistsNode.java,20260,149,80 189
+74,org.drools.core.phreak.PhreakAccumulateNode.evaluateResultConstraints,drools-core\src\main\java\org\drools\core\phreak\PhreakAccumulateNode.java,29908,239,105 195
+75,org.drools.core.phreak.RuleNetworkEvaluator.outerEval,drools-core\src\main\java\org\drools\core\phreak\RuleNetworkEvaluator.java,7089,253,106 66
+76,org.drools.core.phreak.RuleNetworkEvaluator.doRiaNode2,drools-core\src\main\java\org\drools\core\phreak\RuleNetworkEvaluator.java,29853,253,115
+77,org.drools.core.phreak.PhreakRuleTerminalNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakRuleTerminalNode.java,1550,58,66
+78,org.drools.core.phreak.PhreakRuleTerminalNode.doLeftInserts,drools-core\src\main\java\org\drools\core\phreak\PhreakRuleTerminalNode.java,2182,58,66
+79,org.drools.core.phreak.PhreakRuleTerminalNode.doLeftUpdates,drools-core\src\main\java\org\drools\core\phreak\PhreakRuleTerminalNode.java,5613,58,66
+80,org.drools.core.phreak.PhreakRuleTerminalNode.doLeftDeletes,drools-core\src\main\java\org\drools\core\phreak\PhreakRuleTerminalNode.java,9431,58,66
+81,org.drools.core.phreak.PhreakQueryTerminalNode.doNode,drools-core\src\main\java\org\drools\core\phreak\PhreakQueryTerminalNode.java,1377,98,251
+82,org.drools.core.phreak.PhreakQueryTerminalNode.doLeftInserts,drools-core\src\main\java\org\drools\core\phreak\PhreakQueryTerminalNode.java,2021,98,251
+83,org.drools.core.phreak.PhreakQueryTerminalNode.doLeftUpdates,drools-core\src\main\java\org\drools\core\phreak\PhreakQueryTerminalNode.java,3514,98,251
+84,org.drools.core.phreak.PhreakQueryTerminalNode.doLeftDeletes,drools-core\src\main\java\org\drools\core\phreak\PhreakQueryTerminalNode.java,5122,98,251
+85,org.drools.core.reteoo.builder.BuildUtils.mergeNodes,drools-core\src\main\java\org\drools\core\reteoo\builder\BuildUtils.java,7120,92,221
+86,org.drools.core.reteoo.builder.BuildUtils.isSharingEnabledForNode,drools-core\src\main\java\org\drools\core\reteoo\builder\BuildUtils.java,8042,92,188 221
+87,org.drools.core.reteoo.builder.BuildUtils.areNodesCompatibleForSharing,drools-core\src\main\java\org\drools\core\reteoo\builder\BuildUtils.java,8552,92,188 221
+88,org.drools.core.reteoo.builder.BuildUtils.createBetaNodeConstraint,drools-core\src\main\java\org\drools\core\reteoo\builder\BuildUtils.java,9151,92,188
+89,org.drools.core.reteoo.compiled.ObjectTypeNodeParser.getFirstAlphaNode,drools-core\src\main\java\org\drools\core\reteoo\compiled\ObjectTypeNodeParser.java,8220,237,145
+90,org.drools.core.reteoo.compiled.ObjectTypeNodeParser.getClassFieldReaderForHashedAlpha,drools-core\src\main\java\org\drools\core\reteoo\compiled\ObjectTypeNodeParser.java,9094,237,226
+91,org.drools.core.reteoo.Rete.getObjectTypeNodes,drools-core\src\main\java\org\drools\core\reteoo\Rete.java,7988,194,220
+92,org.drools.core.reteoo.BetaNode.getObjectTypeNode,drools-core\src\main\java\org\drools\core\reteoo\BetaNode.java,5675,171,188
+93,org.drools.core.reteoo.BetaNode.doUpdateRightTuple,drools-core\src\main\java\org\drools\core\reteoo\BetaNode.java,16911,171,189
+94,org.drools.core.reteoo.BetaMemory.linkNode,drools-core\src\main\java\org\drools\core\reteoo\BetaMemory.java,2969,189,26
+95,org.drools.core.reteoo.BetaMemory.setNodeDirty,drools-core\src\main\java\org\drools\core\reteoo\BetaMemory.java,4353,189,26
+96,org.drools.core.reteoo.PathMemory.isRuleDataDriven,drools-core\src\main\java\org\drools\core\reteoo\PathMemory.java,2100,106,227
+97,org.drools.core.reteoo.PathMemory.setSegmentMemory,drools-core\src\main\java\org\drools\core\reteoo\PathMemory.java,7120,106,140
+98,org.drools.core.reteoo.MemoryVisitor.visitRete,drools-core\src\main\java\org\drools\core\reteoo\MemoryVisitor.java,2342,89,194
+99,org.drools.core.reteoo.SegmentMemory.isAssociatedWith,drools-core\src\main\java\org\drools\core\reteoo\SegmentMemory.java,9795,140,106
+100,org.drools.core.reteoo.LeftTupleSource.addTupleSink,drools-core\src\main\java\org\drools\core\reteoo\LeftTupleSource.java,4947,26,188
+101,org.drools.core.reteoo.WindowTupleList.addFirstWindowTuple,drools-core\src\main\java\org\drools\core\reteoo\WindowTupleList.java,2075,162,152
+102,org.drools.core.reteoo.WindowTupleList.addLastWindowTuple,drools-core\src\main\java\org\drools\core\reteoo\WindowTupleList.java,2615,162,152
+103,org.drools.core.reteoo.WindowTupleList.removeWindowTuple,drools-core\src\main\java\org\drools\core\reteoo\WindowTupleList.java,3147,162,152
+104,org.drools.core.reteoo.QueryElementNode.initArgsTemplate,drools-core\src\main\java\org\drools\core\reteoo\QueryElementNode.java,3630,240,188
+105,org.drools.core.reteoo.TraitObjectTypeNode.sameAndNotCoveredByDescendants,drools-core\src\main\java\org\drools\core\reteoo\TraitObjectTypeNode.java,3643,95,193
+106,org.drools.core.reteoo.AbstractTerminalNode.initDeclaredMask,drools-core\src\main\java\org\drools\core\reteoo\AbstractTerminalNode.java,3727,235,188
+107,org.drools.core.reteoo.LeftInputAdapterNode.calculateSinkMask,drools-core\src\main\java\org\drools\core\reteoo\LeftInputAdapterNode.java,4221,3,188
+108,org.drools.core.reteoo.AsyncMessagesCoordinator.propagate,drools-core\src\main\java\org\drools\core\reteoo\AsyncMessagesCoordinator.java,1200,65,209
+109,org.drools.core.reteoo.CompositePartitionAwareObjectSinkAdapter.propagateModifyObjectForPartition,drools-core\src\main\java\org\drools\core\reteoo\CompositePartitionAwareObjectSinkAdapter.java,8395,166,236
+110,org.drools.core.factmodel.traits.TraitField.get,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitField.java,3940,216,103
+111,org.drools.core.factmodel.traits.TraitRegistry.getTraitInterfaces,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitRegistry.java,6259,93,230
+112,org.drools.core.factmodel.traits.TraitRegistry.detectStaticallyImplementedTraits,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitRegistry.java,10302,93,230
+113,org.drools.core.factmodel.traits.TraitClassBuilderImpl.buildSetter,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitClassBuilderImpl.java,4133,153,12
+114,org.drools.core.factmodel.traits.TraitClassBuilderImpl.buildGetter,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitClassBuilderImpl.java,4795,153,12
+115,org.drools.core.factmodel.traits.AbstractProxyClassBuilderImpl.buildShadowMethod,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractProxyClassBuilderImpl.java,5545,144,230
+116,org.drools.core.factmodel.traits.AbstractProxyClassBuilderImpl.fixPrimitive,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractProxyClassBuilderImpl.java,9972,144,12
+117,org.drools.core.factmodel.traits.AbstractProxyClassBuilderImpl.buildHardSetter,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractProxyClassBuilderImpl.java,10933,144,12 230
+118,org.drools.core.factmodel.traits.AbstractProxyClassBuilderImpl.synchField,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractProxyClassBuilderImpl.java,14108,144,12
+119,org.drools.core.factmodel.traits.AbstractProxyClassBuilderImpl.logicalSetter,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractProxyClassBuilderImpl.java,17230,144,12 230
+120,org.drools.core.factmodel.traits.AbstractProxyClassBuilderImpl.buildLogicalGetter,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractProxyClassBuilderImpl.java,20682,144,12 230
+121,org.drools.core.factmodel.traits.TraitMapProxyClassBuilderImpl.buildHardGetter,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitMapProxyClassBuilderImpl.java,18390,164,12 230
+122,org.drools.core.factmodel.traits.TraitMapProxyClassBuilderImpl.buildSoftGetter,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitMapProxyClassBuilderImpl.java,21333,164,12
+123,org.drools.core.factmodel.traits.TraitCoreWrapperClassBuilderImpl.initializeDynamicTypeStructures,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitCoreWrapperClassBuilderImpl.java,31875,130,230
+124,org.drools.core.factmodel.traits.TraitTripleProxyClassBuilderImpl.buildHardGetter,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitTripleProxyClassBuilderImpl.java,19302,104,12 230
+125,org.drools.core.factmodel.traits.TraitTripleProxyClassBuilderImpl.buildSoftGetter,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitTripleProxyClassBuilderImpl.java,22311,104,12
+126,org.drools.core.factmodel.traits.AbstractPropertyWrapperClassBuilderImpl.invokePut,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractPropertyWrapperClassBuilderImpl.java,1428,124,12 230
+127,org.drools.core.factmodel.traits.AbstractPropertyWrapperClassBuilderImpl.registerLogicalField,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractPropertyWrapperClassBuilderImpl.java,3064,124,12 230
+128,org.drools.core.factmodel.traits.AbstractPropertyWrapperClassBuilderImpl.collectFieldName,drools-core\src\main\java\org\drools\core\factmodel\traits\AbstractPropertyWrapperClassBuilderImpl.java,6984,124,12
+129,org.drools.core.factmodel.traits.TraitMapPropertyWrapperClassBuilderImpl.buildSize,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitMapPropertyWrapperClassBuilderImpl.java,15016,99,230
+130,org.drools.core.factmodel.traits.TraitMapPropertyWrapperClassBuilderImpl.buildIsEmpty,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitMapPropertyWrapperClassBuilderImpl.java,15911,99,230
+131,org.drools.core.factmodel.traits.TraitMapPropertyWrapperClassBuilderImpl.buildKeyset,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitMapPropertyWrapperClassBuilderImpl.java,21290,99,230
+132,org.drools.core.factmodel.traits.TraitTriplePropertyWrapperClassBuilderImpl.buildClear,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitTriplePropertyWrapperClassBuilderImpl.java,12282,24,230
+133,org.drools.core.factmodel.traits.TraitTriplePropertyWrapperClassBuilderImpl.clearSoftField,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitTriplePropertyWrapperClassBuilderImpl.java,13599,24,12
+134,org.drools.core.factmodel.traits.TraitTriplePropertyWrapperClassBuilderImpl.buildSize,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitTriplePropertyWrapperClassBuilderImpl.java,16741,24,230
+135,org.drools.core.factmodel.traits.TraitTriplePropertyWrapperClassBuilderImpl.buildIsEmpty,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitTriplePropertyWrapperClassBuilderImpl.java,17346,24,230
+136,org.drools.core.factmodel.traits.TraitTriplePropertyWrapperClassBuilderImpl.buildSpecificMethods,drools-core\src\main\java\org\drools\core\factmodel\traits\TraitTriplePropertyWrapperClassBuilderImpl.java,27443,24,230
+137,org.drools.core.factmodel.EnumClassDefinition.addLiteral,drools-core\src\main\java\org\drools\core\factmodel\EnumClassDefinition.java,1885,91,217
+138,org.drools.core.definitions.rule.impl.RuleImpl.isEffective,drools-core\src\main\java\org\drools\core\definitions\rule\impl\RuleImpl.java,13003,227,72
+139,org.drools.modelcompiler.builder.generator.visitor.accumulate.AccumulateVisitor.addBindingAsDeclaration,drools-model\drools-model-compiler\src\main\java\org\drools\modelcompiler\builder\generator\visitor\accumulate\AccumulateVisitor.java,21209,136,117
+140,org.drools.modelcompiler.builder.generator.visitor.accumulate.AccumulateVisitor.parseMethodCallType,drools-model\drools-model-compiler\src\main\java\org\drools\modelcompiler\builder\generator\visitor\accumulate\AccumulateVisitor.java,23184,136,117
+141,org.drools.modelcompiler.builder.generator.visitor.accumulate.AccumulateVisitor.collectNamesInBlock,drools-model\drools-model-compiler\src\main\java\org\drools\modelcompiler\builder\generator\visitor\accumulate\AccumulateVisitor.java,36161,136,117
+142,org.drools.modelcompiler.builder.generator.RuleContext.addOOPathDeclaration,drools-model\drools-model-compiler\src\main\java\org\drools\modelcompiler\builder\generator\RuleContext.java,9161,117,143
+143,org.drools.modelcompiler.CanonicalKieModule.mergeProcesses,drools-model\drools-model-compiler\src\main\java\org\drools\modelcompiler\CanonicalKieModule.java,9078,109,54
+144,org.drools.beliefs.bayes.JunctionTree.recurseJTNodesAndInitialisePotentials,drools-beliefs\src\main\java\org\drools\beliefs\bayes\JunctionTree.java,2362,40,186
+145,org.drools.compiler.kie.builder.impl.KieBuilderImpl.createCompiler,drools-compiler\src\main\java\org\drools\compiler\kie\builder\impl\KieBuilderImpl.java,30277,114,241
+146,org.drools.compiler.kie.builder.impl.MemoryKieModule.cloneForIncrementalCompilation,drools-compiler\src\main\java\org\drools\compiler\kie\builder\impl\MemoryKieModule.java,3215,35,211
+147,org.drools.compiler.kie.builder.impl.KieContainerImpl.getModifiedClasses,drools-compiler\src\main\java\org\drools\compiler\kie\builder\impl\KieContainerImpl.java,14619,41,52
+148,org.drools.compiler.kie.builder.impl.KieContainerImpl.generateCompiledAlphaNetwork,drools-compiler\src\main\java\org\drools\compiler\kie\builder\impl\KieContainerImpl.java,18276,41,131
+149,org.drools.compiler.kie.builder.impl.AbstractKieModule.buildKnowledgePackages,drools-compiler\src\main\java\org\drools\compiler\kie\builder\impl\AbstractKieModule.java,7523,47,131 154
+150,org.drools.compiler.kie.builder.impl.AbstractKieModule.getKnowledgeBaseConfiguration,drools-compiler\src\main\java\org\drools\compiler\kie\builder\impl\AbstractKieModule.java,9974,47,131
+151,org.drools.compiler.lang.descr.RuleDescr.lookAheadFieldsOfIdentifier,drools-compiler\src\main\java\org\drools\compiler\lang\descr\RuleDescr.java,11006,19,133
+152,org.drools.compiler.lang.descr.PackageDescr.afterRuleAdded,drools-compiler\src\main\java\org\drools\compiler\lang\descr\PackageDescr.java,7543,55,19
+153,org.drools.compiler.lang.descr.PatternDescr.isPassive,drools-compiler\src\main\java\org\drools\compiler\lang\descr\PatternDescr.java,2669,133,161
+154,org.drools.compiler.lang.descr.PatternDescr.isInternalFact,drools-compiler\src\main\java\org\drools\compiler\lang\descr\PatternDescr.java,4525,133,161
+155,org.drools.compiler.lang.descr.PredicateDescr.copyParameters,drools-compiler\src\main\java\org\drools\compiler\lang\descr\PredicateDescr.java,2132,190,158
+156,org.drools.compiler.lang.descr.EnumDeclarationDescr.addLiteral,drools-compiler\src\main\java\org\drools\compiler\lang\descr\EnumDeclarationDescr.java,2078,173,69
+157,org.drools.compiler.lang.descr.CompositePackageDescr.internalAdd,drools-compiler\src\main\java\org\drools\compiler\lang\descr\CompositePackageDescr.java,1645,185,55
+158,org.drools.compiler.lang.descr.ConstraintConnectiveDescr.addOrMerge,drools-compiler\src\main\java\org\drools\compiler\lang\descr\ConstraintConnectiveDescr.java,2313,238,158
+159,org.drools.compiler.lang.descr.AbstractClassTypeDeclarationDescr.addField,drools-compiler\src\main\java\org\drools\compiler\lang\descr\AbstractClassTypeDeclarationDescr.java,3884,31,49
+160,org.drools.compiler.lang.MVELDumper.processConstraint,drools-compiler\src\main\java\org\drools\compiler\lang\MVELDumper.java,5130,27,201
+161,org.drools.compiler.lang.MVELDumper.processBackReference,drools-compiler\src\main\java\org\drools\compiler\lang\MVELDumper.java,9251,27,181
+162,org.drools.compiler.lang.MVELDumper.processInferredCast,drools-compiler\src\main\java\org\drools\compiler\lang\MVELDumper.java,13853,27,181
+163,org.drools.compiler.lang.MVELDumper.processConnectiveDescr,drools-compiler\src\main\java\org\drools\compiler\lang\MVELDumper.java,19137,27,158 238
+164,org.drools.compiler.lang.ParserHelper.setStart,drools-compiler\src\main\java\org\drools\compiler\lang\ParserHelper.java,16733,70,158
+165,org.drools.compiler.lang.DroolsSentence.addContent,drools-compiler\src\main\java\org\drools\compiler\lang\DroolsSentence.java,2700,30,67
+166,org.drools.compiler.rule.builder.dialect.java.JavaExprAnalyzer.analyze,drools-compiler\src\main\java\org\drools\compiler\rule\builder\dialect\java\JavaExprAnalyzer.java,4220,110,23 118
+167,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.internalAddRule,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,51606,32,161
+168,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.getPackageDialect,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,61515,32,55
+169,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.validateRule,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,70183,32,55 19
+170,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.loadAccumulateFunction,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,74785,32,56
+171,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.processFunctions,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,75981,32,55 56
+172,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.processEntryPointDeclarations,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,77380,32,55 56
+173,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.processWindowDeclarations,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,77708,32,55 56
+174,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.preCompileAddFunction,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,80563,32,1 56
+175,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.postCompileAddFunction,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,80908,32,1 56
+176,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.inheritPackageAttributes,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,88567,32,19
+177,org.drools.compiler.builder.impl.KnowledgeBuilderImpl.normalizeStrictAnnotation,drools-compiler\src\main\java\org\drools\compiler\builder\impl\KnowledgeBuilderImpl.java,104275,32,196
+178,org.drools.compiler.builder.impl.ClassHierarchyManager.buildInheritedFieldDescrFromDefinition,drools-compiler\src\main\java\org\drools\compiler\builder\impl\ClassHierarchyManager.java,17822,167,247
+179,org.drools.compiler.builder.impl.ClassDefinitionFactory.wireEnumLiteralDefs,drools-compiler\src\main\java\org\drools\compiler\builder\impl\ClassDefinitionFactory.java,8061,83,31
+180,org.drools.compiler.builder.impl.TypeDeclarationFactory.reportDeclarationDiff,drools-compiler\src\main\java\org\drools\compiler\builder\impl\TypeDeclarationFactory.java,16581,246,31
+181,org.drools.compiler.builder.impl.TypeDeclarationConfigurator.finalize,drools-compiler\src\main\java\org\drools\compiler\builder\impl\TypeDeclarationConfigurator.java,2166,232,31 167 56
+182,org.drools.compiler.builder.impl.TypeDeclarationConfigurator.buildFieldAccessors,drools-compiler\src\main\java\org\drools\compiler\builder\impl\TypeDeclarationConfigurator.java,5435,232,56
+183,org.drools.compiler.builder.impl.TypeDeclarationNameResolver.alreadyDefinedInPackage,drools-compiler\src\main\java\org\drools\compiler\builder\impl\TypeDeclarationNameResolver.java,6560,108,31 55
+184,org.drools.compiler.builder.impl.TypeDeclarationNameResolver.fillStaticInterfaces,drools-compiler\src\main\java\org\drools\compiler\builder\impl\TypeDeclarationNameResolver.java,11280,108,247
+185,org.drools.compiler.commons.jci.compilers.JavaCompilerFactory.updateSettings,drools-compiler\src\main\java\org\drools\compiler\commons\jci\compilers\JavaCompilerFactory.java,3930,200,184
+186,org.drools.compiler.compiler.DrlParser.getExpandedDRL,drools-compiler\src\main\java\org\drools\compiler\compiler\DrlParser.java,7036,213,127
+187,org.drools.compiler.compiler.PackageRegistry.addImport,drools-compiler\src\main\java\org\drools\compiler\compiler\PackageRegistry.java,3292,56,132
+188,org.drools.games.pong.PongUI.drawBall,drools-examples\src\main\java\org\drools\games\pong\PongUI.java,3179,165,15
+189,org.drools.games.pong.PongUI.drawBat,drools-examples\src\main\java\org\drools\games\pong\PongUI.java,3391,165,5
+190,org.drools.games.adventures.GameEngine.receiveMessage,drools-examples\src\main\java\org\drools\games\adventures\GameEngine.java,2547,4,9
+191,org.drools.examples.datadriventemplate.DataDrivenTemplateExample.createRule,drools-examples\src\main\java\org\drools\examples\datadriventemplate\DataDrivenTemplateExample.java,6227,42,113 6 76 179
+192,org.drools.verifier.core.index.model.Field.remove,drools-verifier\drools-verifier-core\src\main\java\org\drools\verifier\core\index\model\Field.java,1706,51,168
+193,org.drools.verifier.core.index.model.Rules.remove,drools-verifier\drools-verifier-core\src\main\java\org\drools\verifier\core\index\model\Rules.java,1831,198,231
+194,org.drools.verifier.core.index.model.Actions.remove,drools-verifier\drools-verifier-core\src\main\java\org\drools\verifier\core\index\model\Actions.java,2142,223,168
+195,org.drools.verifier.core.index.model.Columns.remove,drools-verifier\drools-verifier-core\src\main\java\org\drools\verifier\core\index\model\Columns.java,1876,25,168
+196,org.drools.verifier.core.index.model.Conditions.remove,drools-verifier\drools-verifier-core\src\main\java\org\drools\verifier\core\index\model\Conditions.java,2091,234,168
+197,org.drools.verifier.core.checks.SingleRangeCheck.getConditions,drools-verifier\drools-verifier-core\src\main\java\org\drools\verifier\core\checks\SingleRangeCheck.java,10878,121,119
+198,org.drools.template.model.Rule.renderDRL,drools-templates\src\main\java\org\drools\template\model\Rule.java,3024,206,142
+199,org.drools.template.model.Package.renderDRL,drools-templates\src\main\java\org\drools\template\model\Package.java,3174,128,142
+200,org.drools.template.parser.DefaultTemplateRuleBase.createColumnConditions,drools-templates\src\main\java\org\drools\template\parser\DefaultTemplateRuleBase.java,3436,203,206 78
+201,org.drools.template.parser.DefaultTemplateRuleBase.addGlobals,drools-templates\src\main\java\org\drools\template\parser\DefaultTemplateRuleBase.java,3631,203,128
+202,org.drools.template.parser.DefaultTemplateRuleBase.addImports,drools-templates\src\main\java\org\drools\template\parser\DefaultTemplateRuleBase.java,3880,203,128
+203,org.drools.template.parser.DefaultTemplateRuleBase.createConsequence,drools-templates\src\main\java\org\drools\template\parser\DefaultTemplateRuleBase.java,4216,203,78
+204,org.drools.persistence.jpa.marshaller.VariableEntity.addMappedVariables,drools-persistence\drools-persistence-jpa\src\main\java\org\drools\persistence\jpa\marshaller\VariableEntity.java,1417,0,97
+205,org.drools.persistence.jpa.marshaller.VariableEntity.removeMappedVariables,drools-persistence\drools-persistence-jpa\src\main\java\org\drools\persistence\jpa\marshaller\VariableEntity.java,1662,0,97
+206,org.drools.persistence.jpa.marshaller.VariableEntity.findMappedVariables,drools-persistence\drools-persistence-jpa\src\main\java\org\drools\persistence\jpa\marshaller\VariableEntity.java,1867,0,97
+207,org.drools.workbench.models.commons.backend.rule.context.LHSGeneratorContextFactory.newChildGeneratorContext,drools-workbench-models\drools-workbench-models-commons\src\main\java\org\drools\workbench\models\commons\backend\rule\context\LHSGeneratorContextFactory.java,1219,94,192
+208,org.drools.workbench.models.commons.backend.rule.context.LHSGeneratorContextFactory.newChildGeneratorContext,drools-workbench-models\drools-workbench-models-commons\src\main\java\org\drools\workbench\models\commons\backend\rule\context\LHSGeneratorContextFactory.java,1739,94,192
+209,org.drools.workbench.models.commons.backend.rule.context.LHSGeneratorContextFactory.newPeerGeneratorContext,drools-workbench-models\drools-workbench-models-commons\src\main\java\org\drools\workbench\models\commons\backend\rule\context\LHSGeneratorContextFactory.java,2282,94,192
+210,org.drools.workbench.models.commons.backend.rule.context.LHSGeneratorContextFactory.getPeers,drools-workbench-models\drools-workbench-models-commons\src\main\java\org\drools\workbench\models\commons\backend\rule\context\LHSGeneratorContextFactory.java,3170,94,192
+211,org.drools.workbench.models.commons.backend.rule.context.RHSGeneratorContextFactory.newPeerGeneratorContext,drools-workbench-models\drools-workbench-models-commons\src\main\java\org\drools\workbench\models\commons\backend\rule\context\RHSGeneratorContextFactory.java,2278,157,86
+212,org.drools.workbench.models.commons.backend.rule.context.RHSGeneratorContextFactory.getPeers,drools-workbench-models\drools-workbench-models-commons\src\main\java\org\drools\workbench\models\commons\backend\rule\context\RHSGeneratorContextFactory.java,3159,157,86
+213,org.drools.workbench.models.guided.dtree.backend.GuidedDecisionTreeDRLPersistence.marshal,drools-workbench-models\drools-workbench-models-guided-dtree\src\main\java\org\drools\workbench\models\guided\dtree\backend\GuidedDecisionTreeDRLPersistence.java,1228,96,120
+214,org.drools.workbench.models.guided.dtree.backend.GuidedDecisionTreeModelUnmarshallingVisitor.getDataType,drools-workbench-models\drools-workbench-models-guided-dtree\src\main\java\org\drools\workbench\models\guided\dtree\backend\GuidedDecisionTreeModelUnmarshallingVisitor.java,24910,33,120
+215,org.drools.workbench.models.datamodel.rule.visitors.RuleModelVisitor.visitCompositeFactPattern,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\visitors\RuleModelVisitor.java,8501,170,146
+216,org.drools.workbench.models.datamodel.rule.visitors.RuleModelVisitor.visitCompositeFieldConstraint,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\visitors\RuleModelVisitor.java,8739,170,129
+217,org.drools.workbench.models.datamodel.rule.visitors.RuleModelVisitor.visitFromCollectCompositeFactPattern,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\visitors\RuleModelVisitor.java,9832,170,7
+218,org.drools.workbench.models.datamodel.rule.visitors.CopyExpressionVisitor.copyMethodParams,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\visitors\CopyExpressionVisitor.java,5394,229,63
+219,org.drools.workbench.models.datamodel.rule.visitors.CopyExpressionVisitor.moveNext,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\visitors\CopyExpressionVisitor.java,6098,229,155
+220,org.drools.workbench.models.datamodel.rule.RuleModel.addAttribute,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\RuleModel.java,21561,68,249
+221,org.drools.workbench.models.datamodel.rule.RuleModel.addMetadata,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\RuleModel.java,22325,68,61
+222,org.drools.workbench.models.datamodel.rule.RuleModel.updateMetadata,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\RuleModel.java,23666,68,61
+223,org.drools.workbench.models.datamodel.rule.RuleModel.findBoundVariableNames,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\RuleModel.java,25777,68,107 59
+224,org.drools.workbench.models.datamodel.rule.ExpressionMethod.getParameterDataType,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\ExpressionMethod.java,2912,63,102
+225,org.drools.workbench.models.datamodel.rule.ExpressionFormLine.getText,drools-workbench-models\drools-workbench-models-datamodel-api\src\main\java\org\drools\workbench\models\datamodel\rule\ExpressionFormLine.java,1771,102,43
+226,org.drools.workbench.models.guided.dtable.shared.model.DTColumnConfig52.extractDefaultValue,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\shared\model\DTColumnConfig52.java,4336,208,204
+227,org.drools.workbench.models.guided.dtable.shared.model.GuidedDecisionTable52.getPattern,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\shared\model\GuidedDecisionTable52.java,7692,11,126
+228,org.drools.workbench.models.guided.dtable.shared.model.GuidedDecisionTable52.getBRLColumn,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\shared\model\GuidedDecisionTable52.java,8874,11,21
+229,org.drools.workbench.models.guided.dtable.shared.model.GuidedDecisionTable52.getBRLColumn,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\shared\model\GuidedDecisionTable52.java,9389,11,172
+230,org.drools.workbench.models.guided.dtable.backend.util.GuidedDTTemplateDataProvider.getStringValue,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\backend\util\GuidedDTTemplateDataProvider.java,2932,214,204
+231,org.drools.workbench.models.guided.dtable.backend.GuidedDTDRLPersistence.hasVariables,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\backend\GuidedDTDRLPersistence.java,13879,218,79
+232,org.drools.workbench.models.guided.dtable.backend.GuidedDTDRLPersistence.doCondition,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\backend\GuidedDTDRLPersistence.java,25751,218,50
+233,org.drools.workbench.models.guided.dtable.backend.GuidedDTDRLPersistence.hasVariables,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\backend\GuidedDTDRLPersistence.java,28682,218,187
+234,org.drools.workbench.models.guided.dtable.backend.GuidedDTDRLPersistence.doFindByFactPattern,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\backend\GuidedDTDRLPersistence.java,35720,218,245
+235,org.drools.workbench.models.guided.dtable.backend.GuidedDTDRLPersistence.makeSingleFieldConstraint,drools-workbench-models\drools-workbench-models-guided-dtable\src\main\java\org\drools\workbench\models\guided\dtable\backend\GuidedDTDRLPersistence.java,43030,218,126
+236,org.drools.workbench.models.testscenarios.shared.Scenario.removeExpected,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\shared\Scenario.java,4086,228,112
+237,org.drools.workbench.models.testscenarios.shared.Scenario.removeGiven,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\shared\Scenario.java,4670,228,112
+238,org.drools.workbench.models.testscenarios.shared.Scenario.getFactNamesInScope,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\shared\Scenario.java,7804,228,112
+239,org.drools.workbench.models.testscenarios.shared.Scenario.fieldExpectationFailed,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\shared\Scenario.java,12938,228,64
+240,org.drools.workbench.models.testscenarios.shared.Scenario.ruleFailedToFire,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\shared\Scenario.java,13107,228,160
+241,org.drools.workbench.models.testscenarios.shared.CallMethod.addFieldValue,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\shared\CallMethod.java,1992,123,148
+242,org.drools.workbench.models.testscenarios.backend.executors.MethodExecutor.isThisTheLastVariable,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\executors\MethodExecutor.java,2047,36,123
+243,org.drools.workbench.models.testscenarios.backend.executors.MethodExecutor.isTheValueAPreviouslyDefinedObject,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\executors\MethodExecutor.java,2516,36,148
+244,org.drools.workbench.models.testscenarios.backend.verifiers.FactVerifier.verifyFact,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\verifiers\FactVerifier.java,3441,71,159
+245,org.drools.workbench.models.testscenarios.backend.verifiers.RuleFiredVerifier.verifyFiredXTimes,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\verifiers\RuleFiredVerifier.java,1512,197,160
+246,org.drools.workbench.models.testscenarios.backend.verifiers.RuleFiredVerifier.verifyFiredZeroTimes,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\verifiers\RuleFiredVerifier.java,2186,197,160
+247,org.drools.workbench.models.testscenarios.backend.verifiers.RuleFiredVerifier.verifyFiredAtLeastOnce,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\verifiers\RuleFiredVerifier.java,2747,197,160
+248,org.drools.workbench.models.testscenarios.backend.populators.CollectionFieldPopulator.createExpression,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\populators\CollectionFieldPopulator.java,1198,101,182
+249,org.drools.workbench.models.testscenarios.backend.ScenarioRunner.scenarioUsesTimeWalk,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\ScenarioRunner.java,5409,84,228
+250,org.drools.workbench.models.testscenarios.backend.TestScenarioKSessionWrapper.getTargetTime,drools-workbench-models\drools-workbench-models-test-scenarios\src\main\java\org\drools\workbench\models\testscenarios\backend\TestScenarioKSessionWrapper.java,5671,139,112
+251,org.drools.workbench.models.guided.template.backend.upgrade.TemplateModelUpgradeHelper1.updateInterpolationVariableFieldTypes,drools-workbench-models\drools-workbench-models-guided-template\src\main\java\org\drools\workbench\models\guided\template\backend\upgrade\TemplateModelUpgradeHelper1.java,1232,75,176
+252,org.drools.scenariosimulation.api.model.Scenario.addOrUpdateMappingValue,drools-scenario-simulation\drools-scenario-simulation-api\src\main\java\org\drools\scenariosimulation\api\model\Scenario.java,2900,48,224 2
+253,org.drools.scenariosimulation.api.model.SimulationDescriptor.getIndexByIdentifier,drools-scenario-simulation\drools-scenario-simulation-api\src\main\java\org\drools\scenariosimulation\api\model\SimulationDescriptor.java,4632,45,224 2
+254,org.drools.scenariosimulation.api.model.SimulationDescriptor.addFactMapping,drools-scenario-simulation\drools-scenario-simulation-api\src\main\java\org\drools\scenariosimulation\api\model\SimulationDescriptor.java,5892,45,34
+255,org.drools.scenariosimulation.api.model.SimulationDescriptor.addFactMapping,drools-scenario-simulation\drools-scenario-simulation-api\src\main\java\org\drools\scenariosimulation\api\model\SimulationDescriptor.java,7013,45,224 2

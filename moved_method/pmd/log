@@ -1,0 +1,23 @@
+2021-11-24 18:34:44,164 [INFO] Project C:/Users/Dell/Desktop/Eclipse/MoveMethodGenerator-master/dataset/pmd is opened
+2021-11-24 18:35:22,626 [INFO] Total number of java files: 2399
+2021-11-24 18:35:22,626 [INFO] Total number of source java files: 2399
+2021-11-24 18:35:22,626 [INFO] Total number of classes: 1147
+2021-11-24 18:35:22,626 [INFO] Total number of methods: 8637
+2021-11-24 18:35:22,627 [INFO] StaticMethodsFilter filtered: 623
+2021-11-24 18:35:22,627 [INFO] ConstructorsFilter filtered: 1205
+2021-11-24 18:35:22,627 [INFO] AbstractMethodsFilter filtered: 65
+2021-11-24 18:35:22,627 [INFO] GettersFilter filtered: 530
+2021-11-24 18:35:22,627 [INFO] SettersFilter filtered: 239
+2021-11-24 18:35:22,628 [INFO] EmptyMethodsFilter filtered: 160
+2021-11-24 18:35:22,628 [INFO] ExceptionsThrowersFilter filtered: 59
+2021-11-24 18:35:22,628 [INFO] SingleMethodFilter filtered: 290
+2021-11-24 18:35:22,628 [INFO] SimpleDelegationsFilter filtered: 2257
+2021-11-24 18:35:22,628 [INFO] PrivateMethodsCallersFilter filtered: 982
+2021-11-24 18:35:22,628 [INFO] PrivateFieldAccessorsFilter filtered: 1052
+2021-11-24 18:35:22,628 [INFO] OverridingMethodsFilter filtered: 474
+2021-11-24 18:35:22,628 [INFO] OverriddenMethodsFilter filtered: 13
+2021-11-24 18:35:22,628 [INFO] MethodCallWithSuperFilter filtered: 7
+2021-11-24 18:35:22,628 [INFO] PrivateClassUserFilter filtered: 4
+2021-11-24 18:35:22,628 [INFO] GenericTypeUserFilter filtered: 0
+2021-11-24 18:35:22,628 [INFO] NoTargetsMethodsFilter filtered: 550
+2021-11-24 18:35:22,628 [INFO] Number of methods after filtration: 127
