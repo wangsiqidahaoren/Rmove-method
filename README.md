@@ -28,9 +28,9 @@ GraRep
 SDNE
 ProNE
 walklets
-#Requirement
+# Requirement
 
-###code2vec
+### code2vec
 
 Python3 (>=3.6). To check the version:
 
@@ -54,7 +54,7 @@ nvcc --version
 
 For GPU: cuDNN (>=7.5) (download) To check cuDNN version:
 
-###DeepWalk，LINE ，Node2vec，GraRep，SDNE
+### DeepWalk，LINE ，Node2vec，GraRep，SDNE
 They all come from the open source project OpenNE
 
 numpy==1.14
@@ -64,14 +64,14 @@ tensorflow>=1.12.1
 gensim==3.0.1
 scikit-learn==0.19.0
 
-###ProNE
+### ProNE
 
 numpy
 sklearn
 networkx
 gensim
 
-###walklets
+### walklets
 
 tqdm              4.28.1
 numpy             1.15.4
@@ -80,7 +80,7 @@ texttable         1.5.0
 gensim            3.6.0
 networkx          2.4
 
-#quickstart
+# quickstart
 
 >step1:Use code2vec and code2seq to embedding the semantic information of the code and get the vectors corresponding to the methods and classes
 
@@ -97,7 +97,7 @@ feature1   feature2      feature3     ......       featuren
 
 >step4 : Model evaluation on the real-world dataset
 
-#datasets
+# datasets
 train data
 PMD
 Cayenne
