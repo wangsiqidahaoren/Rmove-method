@@ -42,7 +42,7 @@ nvcc --version
 
 For GPU: cuDNN (>=7.5) (download) To check cuDNN version:
 
-code2seq
+### code2seq
 
 Python3 (>=3.6). To check the version:
 
