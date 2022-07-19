@@ -12,14 +12,14 @@ In this document, the environment required to make and use the Rmove tool is des
 My main environment is located on a computer with windows (windows 10 at the time of my writing) operating system. The fundamentals should be similar for other platforms, although the way in which the environment is configured will be different.
 What do I mean by environment? For example, to run python code you will need to install a python interpreter, and if you want to use code2vec you will need tensorflow.
 
-#tools
+# tools
 
-##code embedding network
+## code embedding network
 
 code2vec
 code2seq
 
-##graph embedding network
+## graph embedding network
 
 DeepWalk
 LINE
